@@ -1,2 +1,4 @@
 # OctoPrint_gcode
-Octoprint gcode
+Octoprint slices
+
+From https://github.com/OutsourcedGuru/OctoPrint-GitFiles
