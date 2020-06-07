@@ -1,3 +1,19 @@
 {
+    "m3d_iPhone_6SP_Case.gco": {
+        "hash": "eb6d2bb000412f22b8e41254389a4e26df3cec07",
+        "analysis": {
+            "estimatedPrintTime": 49874,
+            "filament": {
+                "tool1": {
+                    "volume": 0.0,
+                    "length": 0
+                },
+                "tool0": {
+                    "volume": 50.96792293982527,
+                    "length": 21190
+                }
+            }
+        }
+    },
     "iPhone_6SP_Case.stl": {}
 }
