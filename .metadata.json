@@ -1,0 +1,259 @@
+{
+    "Mug_Lid_chroma.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "dc0d78cdac3351dfa4374d99f695bc3c2e970178",
+        "analysis": {
+            "estimatedPrintTime": 7056.2539210852765,
+            "printingArea": {
+                "maxZ": 4.95,
+                "maxX": 202.792,
+                "maxY": 202.792,
+                "minX": 97.208,
+                "minY": 97.208,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.584,
+                "depth": 105.584,
+                "height": 4.65
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6189.388799999958
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1591327532.103091,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "WiFi.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "9b5da5d3b16ae0cfe12b5aabe67e06ea0b86b8af",
+        "analysis": {
+            "estimatedPrintTime": 12.727922061357855,
+            "printingArea": {
+                "maxZ": null,
+                "maxX": null,
+                "maxY": null,
+                "minX": null,
+                "minY": null,
+                "minZ": null
+            },
+            "dimensions": {
+                "width": 0.0,
+                "depth": 0.0,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 0.0
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1591321307.067144,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "Eliptical-Gears-3-2up.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "f9383c0b1d426fb56704ae127a1468bb0ed0f426",
+        "analysis": {
+            "estimatedPrintTime": 3375.5859951340635,
+            "printingArea": {
+                "maxZ": 6.3,
+                "maxX": 202.547,
+                "maxY": 184.215,
+                "minX": 97.453,
+                "minY": 115.785,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.094,
+                "depth": 68.43,
+                "height": 6.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 3409.028720000002
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1591296732.10507,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "PLA_iPhone_6SP_Case.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 23502.94900495466,
+            "printingArea": {
+                "maxZ": 11.8,
+                "minX": 108.558,
+                "maxX": 191.442,
+                "maxY": 231.582,
+                "minY": 68.418,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 82.884,
+                "depth": 163.164,
+                "height": 11.5
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 13730.870149999593
+                }
+            }
+        }
+    },
+    "final.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 0.3,
+            "printingArea": {
+                "maxZ": null,
+                "maxX": null,
+                "maxY": null,
+                "minX": null,
+                "minY": null,
+                "minZ": null
+            },
+            "dimensions": {
+                "width": 0.0,
+                "depth": 0.0,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 0.0
+                }
+            }
+        }
+    },
+    "Battery_dispenser_Striped_bottom_AAA.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 14875.229900159116,
+            "printingArea": {
+                "maxZ": 79.5,
+                "maxX": 186.3,
+                "maxY": 202.779,
+                "minX": 113.7,
+                "minY": 99.544,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 72.60000000000001,
+                "depth": 103.235,
+                "height": 79.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 15320.651559998982
+                }
+            }
+        }
+    },
+    "Mug_Lid.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "ab4f924779e059e6235d563219af2b3fb9422943",
+        "analysis": {
+            "estimatedPrintTime": 7056.953921085276,
+            "printingArea": {
+                "maxZ": 4.95,
+                "maxX": 202.792,
+                "maxY": 202.792,
+                "minX": 97.208,
+                "minY": 97.208,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.584,
+                "depth": 105.584,
+                "height": 4.65
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6189.388799999958
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1591323149.730871,
+                "printerProfile": "_default",
+                "success": false
+            },
+            {
+                "timestamp": 1591323611.615541,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    },
+    "ClipOnFan.gcode": {
+        "statistics": {
+            "averagePrintTime": {},
+            "lastPrintTime": {}
+        },
+        "hash": "177b17835463b31c097cedb0c6a2b88332bdbc9b",
+        "analysis": {
+            "estimatedPrintTime": 1770.4108036395894,
+            "printingArea": {
+                "maxZ": 8.55,
+                "maxX": 179.144,
+                "maxY": 179.144,
+                "minX": 120.856,
+                "minY": 120.856,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 58.28800000000001,
+                "depth": 58.28800000000001,
+                "height": 8.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1567.4417999999994
+                }
+            }
+        },
+        "history": [
+            {
+                "timestamp": 1591282349.187705,
+                "printerProfile": "_default",
+                "success": false
+            }
+        ]
+    }
+}
