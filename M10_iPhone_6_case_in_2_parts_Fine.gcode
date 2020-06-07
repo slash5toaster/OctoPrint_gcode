@@ -12,9 +12,9 @@
 M140 S60
 M105
 M190 S60
-M104 S200
+M104 S205
 M105
-M109 S200
+M109 S205
 M82 ;absolute extrusion mode
 G28 ;Home
 G1 Z15.0 F6000 ;Move the platform down 15mm
@@ -112493,3 +112493,26 @@ M84 ; disable motors
 M82 ;absolute extrusion mode
 M104 S0
 ;End of Gcode
+;SETTING_3 {"global_quality": "[general]\\nversion = 4\\nname = Fine #2\\ndefini
+;SETTING_3 tion = fdmprinter\\n\\n[metadata]\\nquality_type = normal\\ntype = qu
+;SETTING_3 ality_changes\\n\\n[values]\\n\\n", "extruder_quality": ["[general]\\
+;SETTING_3 nversion = 4\\nname = Fine #2\\ndefinition = custom\\n\\n[metadata]\\
+;SETTING_3 nposition = 0\\nquality_type = normal\\ntype = quality_changes\\n\\n[
+;SETTING_3 values]\\nmaterial_print_temperature = 205\\n\\n", "[general]\\nversi
+;SETTING_3 on = 4\\nname = Fine #2\\ndefinition = fdmprinter\\n\\n[metadata]\\np
+;SETTING_3 osition = 1\\nquality_type = normal\\ntype = quality_changes\\n\\n[va
+;SETTING_3 lues]\\n\\n", "[general]\\nversion = 4\\nname = Fine #2\\ndefinition 
+;SETTING_3 = fdmprinter\\n\\n[metadata]\\nposition = 2\\nquality_type = normal\\
+;SETTING_3 ntype = quality_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 
+;SETTING_3 4\\nname = Fine #2\\ndefinition = fdmprinter\\n\\n[metadata]\\npositi
+;SETTING_3 on = 3\\nquality_type = normal\\ntype = quality_changes\\n\\n[values]
+;SETTING_3 \\n\\n", "[general]\\nversion = 4\\nname = Fine #2\\ndefinition = fdm
+;SETTING_3 printer\\n\\n[metadata]\\nposition = 4\\nquality_type = normal\\ntype
+;SETTING_3  = quality_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nn
+;SETTING_3 ame = Fine #2\\ndefinition = fdmprinter\\n\\n[metadata]\\nposition = 
+;SETTING_3 5\\nquality_type = normal\\ntype = quality_changes\\n\\n[values]\\n\\
+;SETTING_3 n", "[general]\\nversion = 4\\nname = Fine #2\\ndefinition = fdmprint
+;SETTING_3 er\\n\\n[metadata]\\nposition = 6\\nquality_type = normal\\ntype = qu
+;SETTING_3 ality_changes\\n\\n[values]\\n\\n", "[general]\\nversion = 4\\nname =
+;SETTING_3  Fine #2\\ndefinition = fdmprinter\\n\\n[metadata]\\nposition = 7\\nq
+;SETTING_3 uality_type = normal\\ntype = quality_changes\\n\\n[values]\\n\\n"]}
