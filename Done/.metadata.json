@@ -1,5 +1,146 @@
 {
-    "Battery_dispenser_Striped_bottom_AAA.gcode": {},
-    "Mug_Lid_chroma.gcode": {},
-    "PLA_iPhone_6SP_Case.gcode": {}
+    "final.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 0.3,
+            "printingArea": {
+                "maxZ": null,
+                "minX": null,
+                "maxX": null,
+                "maxY": null,
+                "minY": null,
+                "minZ": null
+            },
+            "dimensions": {
+                "width": 0.0,
+                "depth": 0.0,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 0.0
+                }
+            }
+        }
+    },
+    "Battery_dispenser_Striped_bottom_AAA.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 14875.229900159116,
+            "printingArea": {
+                "maxZ": 79.5,
+                "minX": 113.7,
+                "maxX": 186.3,
+                "maxY": 202.779,
+                "minY": 99.544,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 72.60000000000001,
+                "depth": 103.235,
+                "height": 79.2
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 15320.651559998982
+                }
+            }
+        }
+    },
+    "Mug_Lid_chroma.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 7056.2539210852765,
+            "printingArea": {
+                "maxZ": 4.95,
+                "minX": 97.208,
+                "maxX": 202.792,
+                "maxY": 202.792,
+                "minY": 97.208,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.584,
+                "depth": 105.584,
+                "height": 4.65
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6189.388799999958
+                }
+            }
+        }
+    },
+    "Mug_Lid.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 7056.953921085276,
+            "printingArea": {
+                "maxZ": 4.95,
+                "minX": 97.208,
+                "maxX": 202.792,
+                "maxY": 202.792,
+                "minY": 97.208,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 105.584,
+                "depth": 105.584,
+                "height": 4.65
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 6189.388799999958
+                }
+            }
+        }
+    },
+    "ClipOnFan.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 1770.4108036395894,
+            "printingArea": {
+                "maxZ": 8.55,
+                "minX": 120.856,
+                "maxX": 179.144,
+                "maxY": 179.144,
+                "minY": 120.856,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 58.28800000000001,
+                "depth": 58.28800000000001,
+                "height": 8.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 1567.4417999999994
+                }
+            }
+        }
+    },
+    "PLA_iPhone_6SP_Case.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 23502.94900495466,
+            "printingArea": {
+                "maxZ": 11.8,
+                "minX": 108.558,
+                "maxX": 191.442,
+                "maxY": 231.582,
+                "minY": 68.418,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 82.884,
+                "depth": 163.164,
+                "height": 11.5
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 13730.870149999593
+                }
+            }
+        }
+    }
 }
