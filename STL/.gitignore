@@ -1,9 +1,11 @@
 *.3mf
+*.html
+*.jpeg
 *.jpg
 *.png
 *.scad
 *.SLDPRT
 *.STEP
 *.txt
-*.zip
 *.yaml
+*.zip
