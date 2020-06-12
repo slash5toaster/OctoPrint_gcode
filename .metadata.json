@@ -1,31 +1,29 @@
 {
-    "M10_iPhone_6_case_in_2_parts.gcode": {
-        "hash": "a7cfcff253036667a06d39f69ebf625f0f7fdd3a",
+    "M10_5mm_Calibration_Steps.gcode": {
         "analysis": {
-            "estimatedPrintTime": 17022.88975554552,
+            "estimatedPrintTime": 1942.2885998639015,
             "printingArea": {
-                "maxZ": 10.8,
-                "minX": 96.406,
-                "maxX": 203.274,
-                "maxY": 270.434,
-                "minY": 107.563,
+                "maxZ": 25.0,
+                "minX": 133.5,
+                "maxX": 166.5,
+                "maxY": 166.5,
+                "minY": 133.5,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 106.868,
-                "depth": 162.87100000000004,
-                "height": 10.5
+                "width": 33.0,
+                "depth": 33.0,
+                "height": 24.7
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 9991.095000000052
+                    "length": 1141.5349800000006
                 }
             }
         }
     },
     "M10_iPhone_6_case_in_2_parts_Fine.gcode": {
-        "hash": "9f9c7f693a549b9546737ab91d32107db5af62c3",
         "analysis": {
             "estimatedPrintTime": 17022.88975554552,
             "printingArea": {
@@ -49,80 +47,148 @@
             }
         }
     },
-    "Battery_dispenser_Striped_bottom_AAA.gcode": {},
-    "WiFi.gcode": {},
-    "M10_AAA_Battery_dispenser_extension_base.gcode": {
-        "hash": "c8ee03e24d4fdc1d86e4929c22f1efa9d21156bd",
+    "WiFi.gcode": {
         "analysis": {
-            "estimatedPrintTime": 23900.223964746,
+            "estimatedPrintTime": 12.727922061357855,
             "printingArea": {
-                "maxZ": 69.9,
-                "minX": 49.7,
-                "maxX": 242.88,
-                "maxY": 197.382,
-                "minY": 104.659,
-                "minZ": 0.3
+                "maxZ": null,
+                "minX": null,
+                "maxX": null,
+                "maxY": null,
+                "minY": null,
+                "minZ": null
             },
             "dimensions": {
-                "width": 193.18,
-                "depth": 92.723,
-                "height": 69.60000000000001
+                "width": 0.0,
+                "depth": 0.0,
+                "height": 0.0
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 23719.609269993998
+                    "length": 0.0
                 }
             }
         }
     },
-    "m10_Battery_dispenser_4_piece_AAA.gcode": {
-        "hash": "7e4080c8dde89dadd067aa4b49df3cb2c5316195",
+    "MP10_Battery_dispenser_4_piece_AAA.gcode": {
         "analysis": {
-            "estimatedPrintTime": 29065.031463926964,
+            "estimatedPrintTime": 29036.73028478872,
             "printingArea": {
                 "maxZ": 69.9,
-                "minX": 49.7,
-                "maxX": 242.88,
+                "minX": 57.12,
+                "maxX": 248.3,
                 "maxY": 251.36,
                 "minY": 104.659,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 193.18,
+                "width": 191.18,
                 "depth": 146.70100000000002,
                 "height": 69.60000000000001
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 28931.95564999096
+                    "length": 28918.04818999092
                 }
             }
         }
     },
-    "Eliptical-Gears-3-2up.gcode": {},
-    "MP10_Battery_dispenser_Striped_bottom_AAA.gcode": {
-        "hash": "f1033918d5944cecf56ccff94f51cb38f4a03925",
+    "Eliptical-Gears-3-2up.gcode": {
         "analysis": {
-            "estimatedPrintTime": 31672.912590853823,
+            "estimatedPrintTime": 3375.5859951340635,
             "printingArea": {
-                "maxZ": 79.5,
-                "minX": 118.3,
-                "maxX": 181.7,
-                "maxY": 198.179,
-                "minY": 103.721,
+                "maxZ": 6.3,
+                "minX": 97.453,
+                "maxX": 202.547,
+                "maxY": 184.215,
+                "minY": 115.785,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 63.39999999999999,
-                "depth": 94.458,
-                "height": 79.2
+                "width": 105.094,
+                "depth": 68.43,
+                "height": 6.0
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 18153.196599998835
+                    "length": 3409.028720000002
+                }
+            }
+        }
+    },
+    "CFFFP_5mm_Calibration_Steps.gcode": {
+        "hash": "288f5ab014ef68439eac0162592b1df651322969",
+        "analysis": {
+            "estimatedPrintTime": 1019.890191661372,
+            "printingArea": {
+                "maxZ": 24.9,
+                "minX": 129.7,
+                "maxX": 170.3,
+                "maxY": 170.3,
+                "minY": 129.7,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 40.60000000000002,
+                "depth": 40.60000000000002,
+                "height": 24.599999999999998
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 991.9899199999999
+                }
+            }
+        }
+    },
+    "MP10_Digital_Sundial.gcode": {
+        "hash": "4bda0af1b7d13928253a826d24b92cf2c4f839a8",
+        "analysis": {
+            "estimatedPrintTime": 57067.46387488805,
+            "printingArea": {
+                "maxZ": 47.25,
+                "maxX": 264.95,
+                "maxY": 266.796,
+                "minX": 42.582,
+                "minY": 16.246,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 222.368,
+                "depth": 250.54999999999998,
+                "height": 46.95
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 57910.38089001731
+                }
+            }
+        }
+    },
+    "MaskHolders6x.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 6749.895835229852,
+            "printingArea": {
+                "maxZ": 0.6,
+                "minX": 79.356,
+                "maxX": 220.644,
+                "maxY": 276.147,
+                "minY": 59.853,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 141.288,
+                "depth": 216.29399999999998,
+                "height": 0.3
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 4967.979099999917
                 }
             }
         }
