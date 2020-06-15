@@ -1,11 +1,14 @@
 *.3mf
+*.ini
+*.SLDPRT
+*.STEP
+*.hex
 *.html
 *.jpeg
 *.jpg
+*.json
 *.png
 *.scad
-*.SLDPRT
-*.STEP
 *.txt
 *.yaml
 *.zip

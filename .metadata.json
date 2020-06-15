@@ -1,96 +1,123 @@
 {
-    "M10_5mm_Calibration_Steps.gcode": {
+    "MP10_robotito_def.gcode": {
         "analysis": {
-            "estimatedPrintTime": 1942.2885998639015,
+            "estimatedPrintTime": 6903.321881809525,
             "printingArea": {
-                "maxZ": 25.0,
-                "minX": 133.5,
-                "maxX": 166.5,
-                "maxY": 166.5,
-                "minY": 133.5,
+                "maxZ": 24.75,
+                "maxX": 217.801,
+                "maxY": 210.011,
+                "minX": 82.197,
+                "minY": 87.069,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 33.0,
-                "depth": 33.0,
-                "height": 24.7
+                "width": 135.60399999999998,
+                "depth": 122.942,
+                "height": 24.45
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 1141.5349800000006
+                    "length": 6882.415210000061
                 }
             }
         }
     },
-    "M10_iPhone_6_case_in_2_parts_Fine.gcode": {
+    "CFFFP_OcotoArm-v3-Final-11mmCase.gcode": {
+        "hash": "d641982d9bced9e2a9d4f7c2a647c9a60dbf90c0",
         "analysis": {
-            "estimatedPrintTime": 17022.88975554552,
+            "estimatedPrintTime": 4554.361117255892,
             "printingArea": {
-                "maxZ": 10.8,
-                "minX": 96.406,
-                "maxX": 203.274,
-                "maxY": 270.434,
-                "minY": 107.563,
+                "maxZ": 39.0,
+                "minX": 102.605,
+                "maxX": 197.267,
+                "maxY": 195.134,
+                "minY": 111.529,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 106.868,
-                "depth": 162.87100000000004,
-                "height": 10.5
+                "width": 94.66199999999999,
+                "depth": 83.60499999999999,
+                "height": 38.7
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 9991.095000000052
+                    "length": 4705.934389999948
                 }
             }
         }
     },
-    "WiFi.gcode": {
+    "MP10_ClipOnFan55.gcode": {
+        "hash": "d89ce807ee1a69199949845cb94627a6d2a5c4a3",
         "analysis": {
-            "estimatedPrintTime": 12.727922061357855,
+            "estimatedPrintTime": 2083.8081592127214,
             "printingArea": {
-                "maxZ": null,
-                "minX": null,
-                "maxX": null,
-                "maxY": null,
-                "minY": null,
-                "minZ": null
+                "maxZ": 8.55,
+                "minX": 115.52,
+                "maxX": 184.48,
+                "maxY": 179.144,
+                "minY": 120.856,
+                "minZ": 0.3
             },
             "dimensions": {
-                "width": 0.0,
-                "depth": 0.0,
-                "height": 0.0
+                "width": 68.96,
+                "depth": 58.28800000000001,
+                "height": 8.25
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 0.0
+                    "length": 1863.4443199999998
                 }
             }
         }
     },
-    "MP10_Battery_dispenser_4_piece_AAA.gcode": {
+    "MP10_tensegrity_tetrahedrons_spiral_top.gcode": {
         "analysis": {
-            "estimatedPrintTime": 29036.73028478872,
+            "estimatedPrintTime": 7195.7255191732465,
             "printingArea": {
-                "maxZ": 69.9,
-                "minX": 57.12,
-                "maxX": 248.3,
-                "maxY": 251.36,
-                "minY": 104.659,
+                "maxZ": 81.6,
+                "maxX": 207.7,
+                "maxY": 227.048,
+                "minX": 42.298,
+                "minY": 98.952,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 191.18,
-                "depth": 146.70100000000002,
-                "height": 69.60000000000001
+                "width": 165.402,
+                "depth": 128.096,
+                "height": 81.3
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 28918.04818999092
+                    "length": 5592.315540000398
+                }
+            }
+        }
+    },
+    "MP10_PCB-Holder_gopro.gcode": {
+        "hash": "dc9825ca3ccd7c00164a41295b455498dee99a7a",
+        "analysis": {
+            "estimatedPrintTime": 10363.57590681268,
+            "printingArea": {
+                "maxZ": 34.35,
+                "maxX": 210.797,
+                "maxY": 202.542,
+                "minX": 89.203,
+                "minY": 96.907,
+                "minZ": 0.3
+            },
+            "dimensions": {
+                "width": 121.594,
+                "depth": 105.635,
+                "height": 34.050000000000004
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 8920.14422999943
                 }
             }
         }
@@ -100,9 +127,9 @@
             "estimatedPrintTime": 3375.5859951340635,
             "printingArea": {
                 "maxZ": 6.3,
-                "minX": 97.453,
                 "maxX": 202.547,
                 "maxY": 184.215,
+                "minX": 97.453,
                 "minY": 115.785,
                 "minZ": 0.3
             },
@@ -119,76 +146,27 @@
             }
         }
     },
-    "CFFFP_5mm_Calibration_Steps.gcode": {
-        "hash": "288f5ab014ef68439eac0162592b1df651322969",
+    "MP10_OcotoArm-v3-Final-11mmCase.gcode": {
+        "hash": "d641982d9bced9e2a9d4f7c2a647c9a60dbf90c0",
         "analysis": {
-            "estimatedPrintTime": 1019.890191661372,
+            "estimatedPrintTime": 4554.361117255892,
             "printingArea": {
-                "maxZ": 24.9,
-                "minX": 129.7,
-                "maxX": 170.3,
-                "maxY": 170.3,
-                "minY": 129.7,
+                "maxZ": 39.0,
+                "minX": 102.605,
+                "maxX": 197.267,
+                "maxY": 195.134,
+                "minY": 111.529,
                 "minZ": 0.3
             },
             "dimensions": {
-                "width": 40.60000000000002,
-                "depth": 40.60000000000002,
-                "height": 24.599999999999998
+                "width": 94.66199999999999,
+                "depth": 83.60499999999999,
+                "height": 38.7
             },
             "filament": {
                 "tool0": {
                     "volume": 0.0,
-                    "length": 991.9899199999999
-                }
-            }
-        }
-    },
-    "MP10_Digital_Sundial.gcode": {
-        "hash": "4bda0af1b7d13928253a826d24b92cf2c4f839a8",
-        "analysis": {
-            "estimatedPrintTime": 57067.46387488805,
-            "printingArea": {
-                "maxZ": 47.25,
-                "maxX": 264.95,
-                "maxY": 266.796,
-                "minX": 42.582,
-                "minY": 16.246,
-                "minZ": 0.3
-            },
-            "dimensions": {
-                "width": 222.368,
-                "depth": 250.54999999999998,
-                "height": 46.95
-            },
-            "filament": {
-                "tool0": {
-                    "volume": 0.0,
-                    "length": 57910.38089001731
-                }
-            }
-        }
-    },
-    "MaskHolders6x.gcode": {
-        "analysis": {
-            "estimatedPrintTime": 6749.895835229852,
-            "printingArea": {
-                "maxZ": 0.6,
-                "minX": 79.356,
-                "maxX": 220.644,
-                "maxY": 276.147,
-                "minY": 59.853,
-                "minZ": 0.3
-            },
-            "dimensions": {
-                "width": 141.288,
-                "depth": 216.29399999999998,
-                "height": 0.3
-            },
-            "filament": {
-                "tool0": {
-                    "volume": 0.0,
-                    "length": 4967.979099999917
+                    "length": 4705.934389999948
                 }
             }
         }
