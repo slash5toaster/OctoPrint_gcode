@@ -1,3 +1,98 @@
 {
-    "QuickBacklash-v2-Y.gcode": {}
+    "QuickBacklash-v2-X.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 117.27975053901739,
+            "printingArea": {
+                "maxZ": 0.35,
+                "maxX": 99.0,
+                "maxY": 98.575,
+                "minX": 1.425,
+                "minY": 1.425,
+                "minZ": 0.35
+            },
+            "dimensions": {
+                "width": 97.575,
+                "depth": 97.15,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 1.066191293294592,
+                    "length": 443.2708300000003
+                }
+            }
+        }
+    },
+    "test_border_(2).gcode": {
+        "analysis": {
+            "estimatedPrintTime": 78.08561963747118,
+            "printingArea": {
+                "maxZ": 2.4,
+                "minX": -2.0,
+                "maxX": 102.9,
+                "maxY": 99.0,
+                "minY": 6.5,
+                "minZ": 0.15
+            },
+            "dimensions": {
+                "width": 104.9,
+                "depth": 92.5,
+                "height": 2.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 151.1951
+                }
+            }
+        }
+    },
+    "QuickBacklash-v2-Y.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 116.87961659115327,
+            "printingArea": {
+                "maxZ": 0.35,
+                "maxX": 98.575,
+                "maxY": 99.0,
+                "minX": 1.425,
+                "minY": 1.425,
+                "minZ": 0.35
+            },
+            "dimensions": {
+                "width": 97.15,
+                "depth": 97.575,
+                "height": 0.0
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 1.0661911008720408,
+                    "length": 443.27074999999974
+                }
+            }
+        }
+    },
+    "test_border.gcode": {
+        "analysis": {
+            "estimatedPrintTime": 78.08561963747118,
+            "printingArea": {
+                "maxZ": 2.4,
+                "maxX": 102.9,
+                "maxY": 99.0,
+                "minX": -2.0,
+                "minY": 6.5,
+                "minZ": 0.15
+            },
+            "dimensions": {
+                "width": 104.9,
+                "depth": 92.5,
+                "height": 2.25
+            },
+            "filament": {
+                "tool0": {
+                    "volume": 0.0,
+                    "length": 151.1951
+                }
+            }
+        }
+    }
 }

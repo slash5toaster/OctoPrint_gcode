@@ -1,9 +1,12 @@
 *.3mf
 *.SLDPRT
 *.STEP
+*.hex
 *.html
+*.ini
 *.jpeg
 *.jpg
+*.json
 *.pdf
 *.png
 *.scad
