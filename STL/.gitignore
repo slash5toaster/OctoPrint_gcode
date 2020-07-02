@@ -1,6 +1,7 @@
 *.3mf
 *.SLDPRT
 *.STEP
+*.gcode
 *.hex
 *.html
 *.ini
