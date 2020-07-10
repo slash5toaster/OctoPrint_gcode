@@ -10,7 +10,6 @@
 *.json
 *.pdf
 *.png
-*.scad
 *.txt
 *.yaml
 *.zip
